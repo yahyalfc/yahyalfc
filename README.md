@@ -26,16 +26,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react-native
 - 📫 How to reach me: yahyarehmanlfc@gmail.com
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yahyalfc&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyalfc)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyalfc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div id="stack" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"      height="40"/>&nbsp;
@@ -53,3 +43,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="express" alt="express" width="40"   height="40"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yahyalfc&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyalfc)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyalfc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
