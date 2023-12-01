@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning react-native
+- 🌱 I’m currently learning nestjs
 - 📫 How to reach me: yahyarehmanlfc@gmail.com
 
 <div id="stack" align="center">
