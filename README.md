@@ -32,6 +32,3 @@ I build production web applications end-to-end — from system architecture to p
 - 📍 Islamabad, Pakistan — open to relocation 🇳🇿
 
 ---
-
-
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyalfc&show_icons=true&theme=default)
