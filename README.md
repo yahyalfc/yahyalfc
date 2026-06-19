@@ -28,7 +28,7 @@ I build production web applications end-to-end — from system architecture to p
 ### 📫 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yahyarehman/
-- 📧 yahyarehmanlfc@gmail.com
+- 📧 Email: yahyarehmanlfc@gmail.com
 - 📍 Islamabad, Pakistan — open to relocation 🇳🇿
 
 ---
