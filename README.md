@@ -1,55 +1,53 @@
 
+# Hi, I'm Yahya Rehman 👋
 
-<!--
-**yahyalfc/yahyalfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer · 5+ years · React · Node.js · TypeScript · AWS**
 
-Here are some ideas to get you started:
+I build production web applications end-to-end — from system architecture to polished UI. Over the last 5+ years I've led cross-functional teams, designed serverless microservices on AWS, integrated AI into real products, and shipped full-stack apps across the MERN/JavaScript stack.
 
-- 🔭 I’m currently working on  MERN stack
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: yahyarehmanlfc@gmail.com
+🌏 **Open to relocating to New Zealand** — eligible for the Green List Tier 1 (Straight to Residence) pathway as a Software Engineer.
 
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** TypeScript · JavaScript · SQL · HTML/CSS
+**Frontend:** React · Next.js · React Native · Redux · Tailwind / MUI
+**Backend:** Node.js · Express · REST · GraphQL
+**Databases:** MongoDB · PostgreSQL · Supabase · Firebase
+**Cloud / DevOps:** AWS (Lambda · API Gateway · CloudWatch) · Docker
+**Testing / Tools:** Jest · OpenAPI/Swagger · Git · Postman
+
+---
+
+### 💼 What I've built (selected)
+
+- **AI hospitality chatbot (Lead Full-Stack):** Led a cross-functional team to ship an AI agent integrating multiple Property Management Systems, automating guest query resolution. *(TypeScript, Next.js, Node, Supabase, ChatGPT API)*
+- **Serverless microservices migration (Senior Backend):** Migrated a monolith to AWS Lambda microservices with a custom CLI, optimized PostgreSQL queries, and built full Jest + OpenAPI test/documentation coverage.
+- **Real-time Web3 interfaces:** Built React frontends for an NFT marketplace, token launchpad, and a real-time on-chain crash game with live WebSocket state.
+- **Candidate–recruiter matching platform (React Native):** End-to-end swipe-based matching system across candidate, recruiter, and admin apps with Firebase push notifications.
+
+> 📂 *Showcase projects with live demos are pinned below — built to demonstrate the same architecture and stack I use in production.*
+
+---
+
+### 📌 Featured Projects
+
+<!-- Replace these with your new showcase repos once built. Suggested format per project: -->
+- **[Project Name]** — one-line description · **Live demo →** [url] · *Stack: Next.js, Node, MongoDB, ...*
+- **[Project Name]** — one-line description · **Live demo →** [url] · *Stack: ...*
+
+---
+
+### 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yahyarehman/
+- 🌐 Portfolio: [your-portfolio-url]
+- 📧 yahyarehmanlfc@gmail.com
+- 📍 Islamabad, Pakistan — open to relocation 🇳🇿
+
+---
+
+<!-- Optional: GitHub stats card. Uncomment to use.
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyalfc&show_icons=true&theme=default)
 -->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-      <a href="https://www.linkedin.com/in/yahyarehman/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-       badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-  </div>
-</div>
-
-
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning nestjs
-- 📫 How to reach me: yahyarehmanlfc@gmail.com
-
-<div id="stack" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"      height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;     
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="grqphql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="express" alt="express" width="40"   height="40"/>
-</div>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yahyalfc&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyalfc)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyalfc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
