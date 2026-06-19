@@ -10,10 +10,15 @@ I build production web applications end-to-end — from system architecture to p
 ### 🛠️ Tech Stack
 
 **Languages:** TypeScript · JavaScript · SQL · HTML/CSS
+
 **Frontend:** React · Next.js · React Native · Redux · Tailwind / MUI
+
 **Backend:** Node.js · Express · REST · GraphQL
+
 **Databases:** MongoDB · PostgreSQL · Supabase · Firebase
+
 **Cloud / DevOps:** AWS (Lambda · API Gateway · CloudWatch · EC2) · Docker
+
 **Testing / Tools:** Jest · OpenAPI/Swagger · Postman
 
 ---
