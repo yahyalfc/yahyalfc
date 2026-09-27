@@ -9,23 +9,23 @@ Backend-focused Fullstack Engineer with 5+ years of experience architecting high
 ### 🚀 Production Systems & Live Products
 
 #### 🤖 [Joni AI](https://joni.ai) — Autonomous AI Agent Marketplace
-- **Tech Stack:** TypeScript · Node.js · Next.js · AWS EKS · Docker · PostgreSQL · Vector DBs
+- **Tech Stack:** TypeScript · Node.js · Next.js · AWS EKS · Docker 
 - **Architecture:** Co-developed an autonomous AI-agent platform by building containerized runtime environments (Docker/AWS EKS) to host isolated agent instances, manage session memory, and execute custom tool calls with sub-second execution.
 
 #### 🏨 [GuestGuru](https://guestguru.ai) — AI Hospitality Automation Platform
-- **Tech Stack:** TypeScript · Next.js · Node.js · PostgreSQL · OpenAI API · RAG Pipelines
+- **Tech Stack:** TypeScript · Next.js · Node.js · Supabase · Vector DBs · OpenAI API · RAG Pipelines · Webhooks
 - **Architecture:** Architected an AI concierge platform integrating multiple Property Management System (PMS) APIs to automate guest query resolution, context retrieval, and automated booking management.
 
 #### 📊 [Weberlo](https://weberlo.com) — Serverless Marketing Analytics Engine
-- **Tech Stack:** Node.js · AWS (Lambda, API Gateway) · PostgreSQL · Custom CLI · Jest · OpenAPI
+- **Tech Stack:** Node.js · AWS (Lambda, API Gateway, CloudWatch) · PostgreSQL · Jest · OpenAPI
 - **Architecture:** Spearheaded monolithic migration to AWS Lambda microservices, built a custom CLI for rapid developer testing, optimized high-volume PostgreSQL tracking queries, and achieved 100% OpenAPI documentation coverage.
 
 #### 💼 [Blonk](https://blonk.co) — Candidate–Recruiter Matching Platform
-- **Tech Stack:** React Native · Node.js · Express · Firebase · PostgreSQL
+- **Tech Stack:** React Native · Node.js · Express · GraphQL · MongoDB
 - **Architecture:** Built an end-to-end swipe-based matching platform across candidate, recruiter, and admin applications—implementing real-time push notification pipelines, location-based filtering, and scalable candidate ranking algorithms.
 
 #### 📇 [CardClan](https://cardclan.io) — Digital Greeting & Marketing Automation Platform
-- **Tech Stack:** TypeScript · Node.js · React · PostgreSQL · AWS · Webhooks
+- **Tech Stack:** TypeScript · Node.js · React · Firebase
 - **Architecture:** Engineered collaborative digital card creation and automated delivery pipelines, building custom scheduling engines, dynamic image/canvas generation backend, and webhook integrations for enterprise marketing campaigns.
 
 ---
