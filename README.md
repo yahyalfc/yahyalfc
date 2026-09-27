@@ -9,27 +9,22 @@ Backend-focused Fullstack Engineer with 5+ years of experience architecting high
 ### 🚀 Production Systems & Live Products
 
 #### 🤖 [Joni AI](https://joni.ai) — Autonomous AI Agent Marketplace
-- **Role:** Lead Backend & System Architect
 - **Tech Stack:** TypeScript · Node.js · Next.js · AWS EKS · Docker · PostgreSQL · Vector DBs
 - **Architecture:** Co-developed an autonomous AI-agent platform by building containerized runtime environments (Docker/AWS EKS) to host isolated agent instances, manage session memory, and execute custom tool calls with sub-second execution.
 
 #### 🏨 [GuestGuru](https://guestguru.ai) — AI Hospitality Automation Platform
-- **Role:** Lead Full-Stack Engineer
 - **Tech Stack:** TypeScript · Next.js · Node.js · PostgreSQL · OpenAI API · RAG Pipelines
 - **Architecture:** Architected an AI concierge platform integrating multiple Property Management System (PMS) APIs to automate guest query resolution, context retrieval, and automated booking management.
 
 #### 📊 [Weberlo](https://weberlo.com) — Serverless Marketing Analytics Engine
-- **Role:** Senior Backend Engineer
 - **Tech Stack:** Node.js · AWS (Lambda, API Gateway) · PostgreSQL · Custom CLI · Jest · OpenAPI
 - **Architecture:** Spearheaded monolithic migration to AWS Lambda microservices, built a custom CLI for rapid developer testing, optimized high-volume PostgreSQL tracking queries, and achieved 100% OpenAPI documentation coverage.
 
 #### 💼 [Blonk](https://blonk.co) — Candidate–Recruiter Matching Platform
-- **Role:** Senior Full-Stack Engineer
 - **Tech Stack:** React Native · Node.js · Express · Firebase · PostgreSQL
 - **Architecture:** Built an end-to-end swipe-based matching platform across candidate, recruiter, and admin applications—implementing real-time push notification pipelines, location-based filtering, and scalable candidate ranking algorithms.
 
 #### 📇 [CardClan](https://cardclan.io) — Digital Greeting & Marketing Automation Platform
-- **Role:** Full-Stack Software Engineer
 - **Tech Stack:** TypeScript · Node.js · React · PostgreSQL · AWS · Webhooks
 - **Architecture:** Engineered collaborative digital card creation and automated delivery pipelines, building custom scheduling engines, dynamic image/canvas generation backend, and webhook integrations for enterprise marketing campaigns.
 
